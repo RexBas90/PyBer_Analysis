@@ -4,6 +4,7 @@
 The objectives were to analyze rideshare data from January to early May of 2019 and create:
 
 (1) A summary DataFrame for the provided data
+
 (2) A visualization that shows the total weekly fares by city type (Urban, Suburban, and Rural)
 
 # Results
